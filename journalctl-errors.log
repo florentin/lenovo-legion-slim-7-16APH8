@@ -1,0 +1,34 @@
+Jan 19 15:53:06 fedora kernel: ACPI BIOS Error (bug): Could not resolve symbol [\_SB.PCI0.GP18.SATA], AE_NOT_FOUND (20230628/dswload2-162)
+Jan 19 15:53:06 fedora kernel: ACPI Error: AE_NOT_FOUND, During name lookup/catalog (20230628/psobject-220)
+Jan 19 15:53:06 fedora kernel: ACPI BIOS Error (bug): Failure creating named object [\_SB.PCI0.GPP6.WLAN._S0W], AE_ALREADY_EXISTS (20230628/dswload2-326)
+Jan 19 15:53:06 fedora kernel: ACPI Error: AE_ALREADY_EXISTS, During name lookup/catalog (20230628/psobject-220)
+Jan 19 15:53:06 fedora kernel: ACPI BIOS Error (bug): Failure creating named object [\_SB.PCI0.GPP7.DEV0._S0W], AE_ALREADY_EXISTS (20230628/dswload2-326)
+Jan 19 15:53:06 fedora kernel: ACPI Error: AE_ALREADY_EXISTS, During name lookup/catalog (20230628/psobject-220)
+Jan 19 15:53:06 fedora kernel: integrity: Problem loading X.509 certificate -126
+Jan 19 15:53:06 fedora kernel: integrity: Problem loading X.509 certificate -126
+Jan 19 15:53:06 fedora systemd-vconsole-setup[345]: /usr/bin/setfont failed with exit status 71.
+Jan 19 15:53:06 fedora systemd-vconsole-setup[572]: /usr/bin/setfont failed with exit status 71.
+Jan 19 14:53:12 fedora /usr/bin/nvidia-powerd[1147]: Allocate client failed 89
+Jan 19 14:53:12 fedora /usr/bin/nvidia-powerd[1147]: Failed to initialize RM Client
+Jan 19 14:53:12 fedora kernel: nouveau 0000:01:00.0: unknown chipset (197000a1)
+Jan 19 14:53:18 fedora gdm-password][2433]: gkr-pam: unable to locate daemon control file
+Jan 19 14:53:19 fedora systemd[2473]: Failed to start app-gnome-gnome\x2dkeyring\x2dsecrets-2686.scope - Application launched by gnome-session-binary.
+░░ Subject: A start job for unit UNIT has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit UNIT has finished with a failure.
+░░ 
+░░ The job identifier is 161 and the job result is failed.
+Jan 19 14:53:19 fedora systemd[2473]: Failed to start app-gnome-gnome\x2dkeyring\x2dssh-2688.scope - Application launched by gnome-session-binary.
+░░ Subject: A start job for unit UNIT has failed
+░░ Defined-By: systemd
+░░ Support: https://lists.freedesktop.org/mailman/listinfo/systemd-devel
+░░ 
+░░ A start job for unit UNIT has finished with a failure.
+░░ 
+░░ The job identifier is 165 and the job result is failed.
+Jan 19 14:53:21 fedora wpa_supplicant[1682]: bgscan simple: Failed to enable signal strength monitoring
+Jan 19 15:13:16 fedora wpa_supplicant[1682]: bgscan simple: Failed to enable signal strength monitoring
+Jan 19 15:15:09 florentin.lan alsactl[1363]: /usr/sbin/alsactl: get_control:255: Cannot read control '2,0,0,L0 DSP1 Prot f20b EVENTS,0': Device or resource busy
+Jan 19 15:15:09 florentin.lan kernel: cs35l41-hda i2c-CSC3551:00-cs35l41-hda.0: DSP1: Failed to read 256 bytes from 2800620: -16
